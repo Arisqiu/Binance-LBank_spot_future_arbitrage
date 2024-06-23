@@ -1,0 +1,2 @@
+# Binance-LBank_spot_future_arbitrage
+这是一个利用Binance现货API和LBank合约API进行期现套利的Python策略。
