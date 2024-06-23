@@ -1,4 +1,5 @@
 # Arbitrage Strategy for Binance and LBank
+#基于Binance和LBank的期现套利策略
 
 这是一个利用Binance现货API和LBank合约API进行期现套利的Python策略。欢迎交流: telegram:@ChildrenQ
 
@@ -83,6 +84,7 @@ MIT 许可证
 
 
 # CTA Strategy for LBank Futures
+#均线交易策略
 
 这是一个利用LBank合约API进行CTA（趋势跟踪策略）的Python实现。欢迎交流: @ChildrenQ
 
