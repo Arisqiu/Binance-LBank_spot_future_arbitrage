@@ -1,7 +1,7 @@
 # Binance-LBank_spot_future_arbitrage
 # Arbitrage Strategy for Binance and LBank
 
-这是一个利用Binance现货API和LBank合约API进行期现套利的Python策略。
+这是一个利用Binance现货API和LBank合约API进行期现套利的Python策略。欢迎交流:Telegram: @ChildrenQ
 
 This is a Python strategy for arbitrage between Binance Spot API and LBank Futures API.
 
